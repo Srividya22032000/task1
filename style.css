@@ -1,0 +1,22 @@
+.card{
+  width:30%;
+  background:#D3E0D3 ;
+  text-align:center;
+  border-radius: 10px;
+}
+.sub1{
+  width: 95%;
+  /* background: red; */
+  margin: auto;
+  border-radius: 10px;
+}
+.sub2{
+  width: 95%;
+  /* background: red; */
+  margin: auto;
+    border-radius: 10px;
+
+}
+img{
+  width:100%;
+}
